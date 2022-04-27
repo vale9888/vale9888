@@ -1,4 +1,9 @@
 ### Hi there 👋
+I am a M.Sc. student in `Mathematical Engineering`, at Politecnico di Milano, with a minor in Statistical Learning.
+- 🔭 I’m currently working on my Master's Thesis in Visual Localization, studying a Self-Supervised strategy to improve the problem of Pose Estimation. I am very passionate about computer vision and data science.
+- 🌱 I'm looking for exciting projects in AI or data analysis.
+- 📫 Happy to get in touch through LinkedIn or via email at `valentina.sgarbossa@mail.polimi.it`.
+
 
 <!--
 **vale9888/vale9888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

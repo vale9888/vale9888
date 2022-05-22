@@ -1,8 +1,8 @@
 ### Hi there 👋
 I am a M.Sc. student in `Mathematical Engineering`, at Politecnico di Milano, with a minor in Statistical Learning.
-- 🔭 I’m currently working on my Master's Thesis in Visual Localization, studying a Self-Supervised strategy to improve the problem of Pose Estimation. I am very passionate about computer vision and data science.
-- 🌱 I'm looking for exciting projects in AI or data analysis.
-- 📫 Happy to get in touch through LinkedIn or via email at `valentina.sgarbossa@mail.polimi.it`.
+- 🔭 I’m currently working on my Master's Thesis in Visual Localization, studying a Self-Supervised strategy to improve the problem of accurate Pose Estimation. I am very passionate about computer vision and fintech.
+- 🌱 I'm looking for research roles in AR/NLP or quantitative trading.
+- 📫 Happy to get in touch through [LinkedIn](https://www.linkedin.com/in/valentina-sgarbossa/) or via email at `valentina.sgarbossa@mail.polimi.it`.
 
 
 <!--

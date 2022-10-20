@@ -1,7 +1,7 @@
 ### Hi there 👋
-I am a M.Sc. student in `Mathematical Engineering`, at Politecnico di Milano, with a minor in Statistical Learning.
-- 🔭 I’m currently working on my Master's Thesis in Visual Localization, studying a Self-Supervised strategy to improve the problem of accurate Pose Estimation. I am very passionate about computer vision and fintech.
-- 🌱 I'm looking for research roles in AR/NLP or quantitative trading.
+I am a AI & Machine Learning Intern at `J.P. Morgan Chase & Co.`, in the Equities Systematic Trading division. I am very passionate about the study and application of statistical and learning models to real world problems. 
+- 🔭 I have graduated cum Laude in Mathematical Engineering, minor in Statistical Learning, in October 2022. I developed my Master's Thesis in Visual Localization, leveraging the power of Self-Supervised Convolutional Neural Networks to improve the problem of accurate Pose Estimation. 
+- 🌱 I'm open to quantitative research roles in Computer Vision/NLP or quantitative trading.
 - 📫 Happy to get in touch through [LinkedIn](https://www.linkedin.com/in/valentina-sgarbossa/) or via email at `valentina.sgarbossa@mail.polimi.it`.
 
 

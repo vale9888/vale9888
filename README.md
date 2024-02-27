@@ -1,7 +1,7 @@
 ### Hi there 👋
-I am a AI & Machine Learning Intern at `J.P. Morgan Chase & Co.`, in the Equities Systematic Trading division. Research-wise, I am passionate about the study and application of statistical and learning models to real world problems. 
+I am currently working at `J.P. Morgan Chase & Co.`, as Product Manager in the Equities E-Trading division. Research-wise, I am passionate about the study and application of statistical and learning models to real world problems. 
 - 🔭 I have graduated cum Laude in Mathematical Engineering, minor in Statistical Learning, in October 2022. I developed my Master's Thesis in Visual Localization, leveraging the power of Self-Supervised Convolutional Neural Networks to improve the problem of accurate Pose Estimation. 
-<!-- - 🌱 I'm open to quantitative research roles in Computer Vision/NLP or quantitative trading. -->
+<!-- - 🌱 I'm open to research roles in Machine Learning/Computer Vision or quantitative trading. -->
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/valentina-sgarbossa/) or via email at `valentina.sgarbossa@mail.polimi.it`.
 
 
